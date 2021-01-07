@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm available for hire so please checkout my [CV](https://github.com/samjones00/CV)!
-
 <!--
 **samjones00/samjones00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
